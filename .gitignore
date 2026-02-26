@@ -1,0 +1,24 @@
+﻿# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Node (Web & Mobile)
+node_modules/
+dist/
+build/
+.env.local
+
+# PHP / Laravel (Backend)
+vendor/
+.env
+public/storage
+storage/*.key
+
+# Mobile Specific
+ios/Pods/
+android/.gradle/
+*.keystore
+
+# Docker
+docker-compose.override.yml
