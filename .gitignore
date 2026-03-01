@@ -17,7 +17,7 @@ storage/*.key
 
 # Mobile Specific
 ios/Pods/
-android/.gradle/
+android/.gradle/p
 *.keystore
 
 # Docker
